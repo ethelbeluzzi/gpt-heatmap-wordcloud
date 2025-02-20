@@ -38,6 +38,6 @@ It was modified to work on **Google Colab**, to include a **word cloud**, and to
 The script will generate the following:  
 ✅ A **heatmap** displaying activity in 2024 and 2025.  
 ✅ A **word cloud** based on conversation data.  
-✅ A **combined visualization** of both (as shown in the example).  
+✅ A **combined visualization** of both.  
 
 Start mapping your ChatGPT journey today! 🗺️
