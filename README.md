@@ -18,7 +18,7 @@ It was modified to work on **Google Colab**, to include a **word cloud**, and to
 - Move the **"gptdados"** folder to your Google Drive.  
 
 ### 4. Open the Notebook  
-- Access the Colab notebook here: [ChatGPT Data Analysis Notebook](https://lnkd.in/dfMtz_bt).  
+- Access the Colab notebook here: [ChatGPT Data Analysis Notebook](https://lnkd.in/dfMtz_bt](https://colab.research.google.com/drive/1Pov2RkI_71xiQe_kOAO9-_s39HCqBzuG?usp=sharing).  
 
 ### 5. Make a Copy of the Notebook  
 - In Google Colab, go to **File** → **Make a Copy in Drive** to save it to your account.  
@@ -40,4 +40,4 @@ The script will generate the following:
 ✅ A **word cloud** based on conversation data.  
 ✅ A **combined visualization** of both (as shown in the example).  
 
-Now you're ready to analyze your ChatGPT usage data! 🚀  
+Start mapping your ChatGPT journey today! 🗺️
