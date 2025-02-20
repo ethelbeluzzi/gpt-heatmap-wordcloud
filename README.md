@@ -18,7 +18,7 @@ It was modified to work on **Google Colab**, to include a **word cloud**, and to
 - Move the **"gptdados"** folder to your Google Drive.  
 
 ### 4. Open the Notebook  
-- Access the Colab notebook here: [ChatGPT Data Analysis Notebook](https://lnkd.in/dfMtz_bt](https://colab.research.google.com/drive/1Pov2RkI_71xiQe_kOAO9-_s39HCqBzuG?usp=sharing).  
+- Access the Colab notebook here: [ChatGPT Data Analysis Notebook](https://colab.research.google.com/drive/1Pov2RkI_71xiQe_kOAO9-_s39HCqBzuG?usp=sharing).
 
 ### 5. Make a Copy of the Notebook  
 - In Google Colab, go to **File** → **Make a Copy in Drive** to save it to your account.  
